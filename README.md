@@ -10,7 +10,7 @@ The FAIR Data Action Plan puts forward 34 recommendations, each with a series of
 
 In addition each recommendation is associated with the main topic covered (typically the report chapter in which it emerged): policy, culture, technology, skills, metrics or costs. Some are closely aligned to two topics e.g. culture and technology. 
 
-[The labels](https://github.com/FAIR-Data-EG/Action-Plan/labels) for topics and stakeholder groups may help you filter and find the most relevant content for you. 
+The [labels for topics and stakeholder groups](https://github.com/FAIR-Data-EG/Action-Plan/labels) may help you filter and find the most relevant content for you. 
 
 # What to contribute
 
@@ -26,7 +26,7 @@ You can comment on as many or as few tickets as you like, and can also respond t
 
 # How else to get involved
 
-The [Interim report on Turning FAIR data into reality](https://docs.google.com/document/d/1FcnBOPUm-9gW3gjF18FDoPNUvIn-ojduLeLe0Y8yEH8/) is also available as a googledoc for comments. Here you will see the wider narrative which brought us to the recommendations and action plan. We are again interested in your reactions to the content, whether it is clear or if you feel parts are missing or superfluous.
+The [Interim report on Turning FAIR data into reality](https://docs.google.com/document/d/1FcnBOPUm-9gW3gjF18FDoPNUvIn-ojduLeLe0Y8yEH8/) is also available as a googledoc for comments. Here you will see the wider narrative which brought us to the recommendations and action plan. We are again interested in your reactions to the content, whether it is clear or if you felt parts are missing or superfluous.
 
 We will also be speaking at events and webinars. Details forthcoming.
 
