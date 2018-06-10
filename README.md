@@ -6,18 +6,11 @@ A parallel stakeholder consultation is being run on the recommendations and Rule
 
 # The FAIR Data Action Plan
 
-The FAIR Data Action Plan puts forward 34 recommendations, each with a series of actions assigned to multiple stakeholder groups. These cover:
-* Research communities
-* Data services
-* Data stewards
-* Standards bodies
-* Global coordination fora
-* Policymakers
-* Research funders
-* Institutions
-* Publishers
+The FAIR Data Action Plan puts forward 34 recommendations, each with a series of actions assigned to multiple stakeholder groups. The stakeholder groups are: research communities, data services, data stewards, standards bodies, global coordination fora, policymakers, research funders, institutions and publishers.
 
-In addition each recommendation is associated with the main topic covered (typically the report chapter in which it emerged): policy, culture, technology, skills, metrics or costs. Some are closely aligned to two topics e.g. culture and technology.
+In addition each recommendation is associated with the main topic covered (typically the report chapter in which it emerged): policy, culture, technology, skills, metrics or costs. Some are closely aligned to two topics e.g. culture and technology. 
+
+[The labels](https://github.com/FAIR-Data-EG/Action-Plan/labels) for topics and stakeholder groups may help you filter and find the most relevant content for you. 
 
 # What to contribute
 
@@ -29,7 +22,7 @@ Each recommendation and set of actions is listed as a [GitHub Issue](https://git
 5. What is an appropriate timescale for the action?
 6. What existing activity does this recommendation / action need to build upon? What needs to be done to make this action a reality? Who should take responsibility for the delivery of this action?
 
-You can comment on as many or as few tickets as you like, and can also respond to other people's comments. [The labels](https://github.com/FAIR-Data-EG/Action-Plan/labels) may help you filter and find the most relevant content for you. 
+You can comment on as many or as few tickets as you like, and can also respond to other people's comments. 
 
 # How else to get involved
 
